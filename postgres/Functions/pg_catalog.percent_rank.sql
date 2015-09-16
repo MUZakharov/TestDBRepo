@@ -1,0 +1,1 @@
+Code of external routine "percent_rank"(window_percent_rank) is not available
