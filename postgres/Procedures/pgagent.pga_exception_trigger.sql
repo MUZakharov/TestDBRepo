@@ -6,7 +6,7 @@ DECLARE
     v_jobid int4 := 0;
 
 BEGIN
-
+--
      IF TG_OP = 'DELETE' THEN
 
         SELECT INTO v_jobid jscjobid FROM pgagent.pga_schedule WHERE jscid = OLD.jexscid;
