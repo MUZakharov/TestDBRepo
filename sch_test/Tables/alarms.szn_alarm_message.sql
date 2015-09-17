@@ -5,7 +5,7 @@ CREATE TABLE szn_alarm_message (
     message_text character varying,
     arg_count integer DEFAULT 0
 );
-
+-- comment
 
 ALTER TABLE alarms.szn_alarm_message OWNER TO postgres;
 
