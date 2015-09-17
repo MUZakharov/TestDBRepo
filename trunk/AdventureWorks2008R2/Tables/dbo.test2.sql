@@ -1,0 +1,11 @@
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[test2](
+	[col1] [varchar](10) NULL
+) ON [PRIMARY]
+
+GO
