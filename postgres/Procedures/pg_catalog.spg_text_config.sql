@@ -1,1 +1,0 @@
-Code of external routine "spg_text_config"(spg_text_config) is not available

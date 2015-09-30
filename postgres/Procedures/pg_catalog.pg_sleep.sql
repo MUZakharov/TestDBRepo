@@ -1,1 +1,0 @@
-Code of external routine "pg_sleep"(pg_sleep) is not available
