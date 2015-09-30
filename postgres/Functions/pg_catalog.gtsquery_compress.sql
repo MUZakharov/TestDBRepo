@@ -1,1 +1,0 @@
-Code of external routine "gtsquery_compress"(gtsquery_compress) is not available

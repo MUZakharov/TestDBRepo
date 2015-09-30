@@ -1,1 +1,0 @@
-Code of external routine "tsqueryin"(tsqueryin) is not available

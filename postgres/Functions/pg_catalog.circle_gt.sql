@@ -1,1 +1,0 @@
-Code of external routine "circle_gt"(circle_gt) is not available

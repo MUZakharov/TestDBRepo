@@ -1,1 +1,0 @@
-Code of external routine "ts_lexize"(ts_lexize) is not available

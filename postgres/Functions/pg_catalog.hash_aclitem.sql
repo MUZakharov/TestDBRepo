@@ -1,1 +1,0 @@
-Code of external routine "hash_aclitem"(hash_aclitem) is not available

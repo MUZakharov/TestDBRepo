@@ -1,1 +1,0 @@
-Code of external routine "text"(rtrim1) is not available

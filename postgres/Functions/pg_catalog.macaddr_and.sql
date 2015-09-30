@@ -1,1 +1,0 @@
-Code of external routine "macaddr_and"(macaddr_and) is not available

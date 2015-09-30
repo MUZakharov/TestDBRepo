@@ -1,1 +1,0 @@
-Code of external routine "range_adjacent"(range_adjacent) is not available

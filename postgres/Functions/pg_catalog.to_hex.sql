@@ -1,1 +1,0 @@
-Code of external routine "to_hex"(to_hex32) is not available

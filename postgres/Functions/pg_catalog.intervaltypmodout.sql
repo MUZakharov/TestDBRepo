@@ -1,1 +1,0 @@
-Code of external routine "intervaltypmodout"(intervaltypmodout) is not available

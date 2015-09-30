@@ -1,1 +1,0 @@
-Code of external routine "byteanlike"(byteanlike) is not available

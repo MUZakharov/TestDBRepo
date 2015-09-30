@@ -1,1 +1,0 @@
-Code of external routine "macaddr_gt"(macaddr_gt) is not available

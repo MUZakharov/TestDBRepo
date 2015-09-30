@@ -1,1 +1,0 @@
-Code of external routine "pg_cancel_backend"(pg_cancel_backend) is not available

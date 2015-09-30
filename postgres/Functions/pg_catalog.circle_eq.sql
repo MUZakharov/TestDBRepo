@@ -1,1 +1,0 @@
-Code of external routine "circle_eq"(circle_eq) is not available

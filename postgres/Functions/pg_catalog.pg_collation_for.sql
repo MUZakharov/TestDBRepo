@@ -1,1 +1,0 @@
-Code of external routine "pg_collation_for"(pg_collation_for) is not available

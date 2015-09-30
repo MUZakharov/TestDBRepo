@@ -1,1 +1,0 @@
-Code of external routine "time_transform"(time_transform) is not available

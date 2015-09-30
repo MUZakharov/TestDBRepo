@@ -1,1 +1,0 @@
-Code of external routine "gin_extract_tsvector"(gin_extract_tsvector) is not available

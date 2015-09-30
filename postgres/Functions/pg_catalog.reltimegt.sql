@@ -1,1 +1,0 @@
-Code of external routine "reltimegt"(reltimegt) is not available

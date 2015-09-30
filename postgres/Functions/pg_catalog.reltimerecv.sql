@@ -1,1 +1,0 @@
-Code of external routine "reltimerecv"(reltimerecv) is not available

@@ -1,1 +1,0 @@
-Code of external routine "float8mi"(float8mi) is not available

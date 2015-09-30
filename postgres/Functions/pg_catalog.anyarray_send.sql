@@ -1,1 +1,0 @@
-Code of external routine "anyarray_send"(anyarray_send) is not available

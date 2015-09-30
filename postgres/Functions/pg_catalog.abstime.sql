@@ -1,1 +1,0 @@
-Code of external routine "abstime"(timestamptz_abstime) is not available

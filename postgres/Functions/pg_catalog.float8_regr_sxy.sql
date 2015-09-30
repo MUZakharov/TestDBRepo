@@ -1,1 +1,0 @@
-Code of external routine "float8_regr_sxy"(float8_regr_sxy) is not available

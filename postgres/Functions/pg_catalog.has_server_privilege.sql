@@ -1,1 +1,0 @@
-Code of external routine "has_server_privilege"(has_server_privilege_name_name) is not available

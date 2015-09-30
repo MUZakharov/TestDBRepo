@@ -1,1 +1,0 @@
-Code of external routine "tsquery_or"(tsquery_or) is not available

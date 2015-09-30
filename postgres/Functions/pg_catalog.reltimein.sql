@@ -1,1 +1,0 @@
-Code of external routine "reltimein"(reltimein) is not available

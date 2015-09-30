@@ -1,1 +1,0 @@
-Code of external routine "timetz_hash"(timetz_hash) is not available

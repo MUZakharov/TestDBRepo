@@ -1,1 +1,0 @@
-Code of external routine "array_eq"(array_eq) is not available

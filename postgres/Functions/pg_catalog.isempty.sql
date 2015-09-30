@@ -1,1 +1,0 @@
-Code of external routine "isempty"(range_empty) is not available

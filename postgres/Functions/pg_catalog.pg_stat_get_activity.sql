@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_activity"(pg_stat_get_activity) is not available

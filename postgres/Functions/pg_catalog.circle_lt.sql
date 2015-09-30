@@ -1,1 +1,0 @@
-Code of external routine "circle_lt"(circle_lt) is not available

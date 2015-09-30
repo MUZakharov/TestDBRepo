@@ -1,1 +1,0 @@
-Code of external routine "version"(pgsql_version) is not available

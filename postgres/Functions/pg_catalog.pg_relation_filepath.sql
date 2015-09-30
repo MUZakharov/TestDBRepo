@@ -1,1 +1,0 @@
-Code of external routine "pg_relation_filepath"(pg_relation_filepath) is not available

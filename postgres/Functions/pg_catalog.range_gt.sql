@@ -1,1 +1,0 @@
-Code of external routine "range_gt"(range_gt) is not available

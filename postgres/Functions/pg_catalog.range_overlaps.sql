@@ -1,1 +1,0 @@
-Code of external routine "range_overlaps"(range_overlaps) is not available

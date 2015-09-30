@@ -1,1 +1,0 @@
-Code of external routine "dsimple_lexize"(dsimple_lexize) is not available

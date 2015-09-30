@@ -1,1 +1,0 @@
-Code of external routine "tidge"(tidge) is not available

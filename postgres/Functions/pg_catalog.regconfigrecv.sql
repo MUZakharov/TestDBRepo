@@ -1,1 +1,0 @@
-Code of external routine "regconfigrecv"(regconfigrecv) is not available

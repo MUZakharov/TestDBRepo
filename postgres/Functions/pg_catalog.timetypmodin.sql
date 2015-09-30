@@ -1,1 +1,0 @@
-Code of external routine "timetypmodin"(timetypmodin) is not available

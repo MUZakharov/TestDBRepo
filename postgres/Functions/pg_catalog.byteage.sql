@@ -1,1 +1,0 @@
-Code of external routine "byteage"(byteage) is not available

@@ -1,1 +1,0 @@
-Code of external routine "numrange_subdiff"(numrange_subdiff) is not available

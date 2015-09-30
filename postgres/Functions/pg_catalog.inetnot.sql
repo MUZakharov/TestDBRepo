@@ -1,1 +1,0 @@
-Code of external routine "inetnot"(inetnot) is not available

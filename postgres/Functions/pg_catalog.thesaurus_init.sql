@@ -1,1 +1,0 @@
-Code of external routine "thesaurus_init"(thesaurus_init) is not available

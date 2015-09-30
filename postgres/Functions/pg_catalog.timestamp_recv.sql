@@ -1,1 +1,0 @@
-Code of external routine "timestamp_recv"(timestamp_recv) is not available

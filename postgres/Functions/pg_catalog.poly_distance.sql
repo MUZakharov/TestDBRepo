@@ -1,1 +1,0 @@
-Code of external routine "poly_distance"(poly_distance) is not available

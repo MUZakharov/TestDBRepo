@@ -1,1 +1,0 @@
-Code of external routine "array_lt"(array_lt) is not available

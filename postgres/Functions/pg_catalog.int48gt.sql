@@ -1,1 +1,0 @@
-Code of external routine "int48gt"(int48gt) is not available

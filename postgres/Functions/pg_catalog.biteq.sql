@@ -1,1 +1,0 @@
-Code of external routine "biteq"(biteq) is not available

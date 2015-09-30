@@ -1,1 +1,0 @@
-Code of external routine "inetand"(inetand) is not available

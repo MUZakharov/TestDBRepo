@@ -1,1 +1,0 @@
-Code of external routine "box_left"(box_left) is not available

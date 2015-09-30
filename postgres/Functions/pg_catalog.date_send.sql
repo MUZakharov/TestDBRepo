@@ -1,1 +1,0 @@
-Code of external routine "date_send"(date_send) is not available

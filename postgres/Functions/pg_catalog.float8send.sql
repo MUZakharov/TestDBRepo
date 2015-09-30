@@ -1,1 +1,0 @@
-Code of external routine "float8send"(float8send) is not available

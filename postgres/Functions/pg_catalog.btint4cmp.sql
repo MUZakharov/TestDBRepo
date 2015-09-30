@@ -1,1 +1,0 @@
-Code of external routine "btint4cmp"(btint4cmp) is not available

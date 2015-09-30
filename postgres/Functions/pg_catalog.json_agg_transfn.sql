@@ -1,1 +1,0 @@
-Code of external routine "json_agg_transfn"(json_agg_transfn) is not available

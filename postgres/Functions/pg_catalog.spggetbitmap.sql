@@ -1,1 +1,0 @@
-Code of external routine "spggetbitmap"(spggetbitmap) is not available

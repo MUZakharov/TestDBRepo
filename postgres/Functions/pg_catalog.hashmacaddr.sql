@@ -1,1 +1,0 @@
-Code of external routine "hashmacaddr"(hashmacaddr) is not available

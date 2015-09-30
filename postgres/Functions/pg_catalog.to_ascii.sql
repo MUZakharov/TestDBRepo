@@ -1,1 +1,0 @@
-Code of external routine "to_ascii"(to_ascii_default) is not available

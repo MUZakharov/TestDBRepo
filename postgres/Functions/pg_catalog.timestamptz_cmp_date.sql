@@ -1,1 +1,0 @@
-Code of external routine "timestamptz_cmp_date"(timestamptz_cmp_date) is not available

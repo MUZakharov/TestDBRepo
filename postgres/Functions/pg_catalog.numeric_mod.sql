@@ -1,1 +1,0 @@
-Code of external routine "numeric_mod"(numeric_mod) is not available

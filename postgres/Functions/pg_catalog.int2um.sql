@@ -1,1 +1,0 @@
-Code of external routine "int2um"(int2um) is not available

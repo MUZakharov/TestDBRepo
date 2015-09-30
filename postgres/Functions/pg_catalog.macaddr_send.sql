@@ -1,1 +1,0 @@
-Code of external routine "macaddr_send"(macaddr_send) is not available

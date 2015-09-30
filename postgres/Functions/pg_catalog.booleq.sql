@@ -1,1 +1,0 @@
-Code of external routine "booleq"(booleq) is not available

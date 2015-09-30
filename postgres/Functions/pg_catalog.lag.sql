@@ -1,1 +1,0 @@
-Code of external routine "lag"(window_lag) is not available

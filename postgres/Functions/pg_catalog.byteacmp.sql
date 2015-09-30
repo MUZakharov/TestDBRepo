@@ -1,1 +1,0 @@
-Code of external routine "byteacmp"(byteacmp) is not available

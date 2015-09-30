@@ -1,1 +1,0 @@
-Code of external routine "pg_try_advisory_lock"(pg_try_advisory_lock_int8) is not available

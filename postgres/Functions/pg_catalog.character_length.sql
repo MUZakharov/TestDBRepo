@@ -1,1 +1,0 @@
-Code of external routine "character_length"(bpcharlen) is not available

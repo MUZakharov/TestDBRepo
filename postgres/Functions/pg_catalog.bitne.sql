@@ -1,1 +1,0 @@
-Code of external routine "bitne"(bitne) is not available

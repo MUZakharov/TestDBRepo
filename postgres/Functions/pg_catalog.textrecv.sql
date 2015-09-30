@@ -1,1 +1,0 @@
-Code of external routine "textrecv"(textrecv) is not available

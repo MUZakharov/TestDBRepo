@@ -1,1 +1,0 @@
-Code of external routine "numeric_mul"(numeric_mul) is not available

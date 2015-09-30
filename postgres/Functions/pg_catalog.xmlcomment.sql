@@ -1,1 +1,0 @@
-Code of external routine "xmlcomment"(xmlcomment) is not available

@@ -1,1 +1,0 @@
-Code of external routine "regoperrecv"(regoperrecv) is not available

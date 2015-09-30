@@ -1,1 +1,0 @@
-Code of external routine "pg_stop_backup"(pg_stop_backup) is not available

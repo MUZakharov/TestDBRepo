@@ -1,1 +1,0 @@
-Code of external routine "timetz_eq"(timetz_eq) is not available

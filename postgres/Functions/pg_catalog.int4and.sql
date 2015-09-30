@@ -1,1 +1,0 @@
-Code of external routine "int4and"(int4and) is not available

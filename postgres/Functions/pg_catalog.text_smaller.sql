@@ -1,1 +1,0 @@
-Code of external routine "text_smaller"(text_smaller) is not available

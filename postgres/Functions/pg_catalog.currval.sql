@@ -1,1 +1,0 @@
-Code of external routine "currval"(currval_oid) is not available

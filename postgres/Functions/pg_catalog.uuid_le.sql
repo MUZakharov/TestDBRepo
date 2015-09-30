@@ -1,1 +1,0 @@
-Code of external routine "uuid_le"(uuid_le) is not available

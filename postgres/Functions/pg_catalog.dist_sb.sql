@@ -1,1 +1,0 @@
-Code of external routine "dist_sb"(dist_sb) is not available

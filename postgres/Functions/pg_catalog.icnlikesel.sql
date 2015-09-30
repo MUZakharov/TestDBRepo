@@ -1,1 +1,0 @@
-Code of external routine "icnlikesel"(icnlikesel) is not available

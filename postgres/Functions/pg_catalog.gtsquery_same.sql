@@ -1,1 +1,0 @@
-Code of external routine "gtsquery_same"(gtsquery_same) is not available

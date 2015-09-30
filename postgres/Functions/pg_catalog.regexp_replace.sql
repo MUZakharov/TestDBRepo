@@ -1,1 +1,0 @@
-Code of external routine "regexp_replace"(textregexreplace_noopt) is not available

@@ -1,1 +1,0 @@
-Code of external routine "circle_contained"(circle_contained) is not available

@@ -1,1 +1,0 @@
-Code of external routine "uuid_recv"(uuid_recv) is not available

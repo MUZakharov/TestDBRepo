@@ -1,1 +1,0 @@
-Code of external routine "float8larger"(float8larger) is not available

@@ -1,1 +1,0 @@
-Code of external routine "regtyperecv"(regtyperecv) is not available

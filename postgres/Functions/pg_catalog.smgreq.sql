@@ -1,1 +1,0 @@
-Code of external routine "smgreq"(smgreq) is not available

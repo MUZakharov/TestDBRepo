@@ -1,1 +1,0 @@
-Code of external routine "int2_sum"(int2_sum) is not available

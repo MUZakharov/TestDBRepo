@@ -1,1 +1,0 @@
-Code of external routine "masklen"(network_masklen) is not available

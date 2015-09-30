@@ -1,1 +1,0 @@
-Code of external routine "nameiclike"(nameiclike) is not available

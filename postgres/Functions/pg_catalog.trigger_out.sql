@@ -1,1 +1,0 @@
-Code of external routine "trigger_out"(trigger_out) is not available

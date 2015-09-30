@@ -1,1 +1,0 @@
-Code of external routine "first_value"(window_first_value) is not available

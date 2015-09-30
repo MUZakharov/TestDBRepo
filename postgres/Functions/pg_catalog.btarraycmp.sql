@@ -1,1 +1,0 @@
-Code of external routine "btarraycmp"(btarraycmp) is not available

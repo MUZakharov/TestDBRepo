@@ -1,1 +1,0 @@
-Code of external routine "tsquery_eq"(tsquery_eq) is not available

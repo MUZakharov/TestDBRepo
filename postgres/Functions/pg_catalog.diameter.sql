@@ -1,1 +1,0 @@
-Code of external routine "diameter"(circle_diameter) is not available

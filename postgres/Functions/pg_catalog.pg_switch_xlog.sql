@@ -1,1 +1,0 @@
-Code of external routine "pg_switch_xlog"(pg_switch_xlog) is not available

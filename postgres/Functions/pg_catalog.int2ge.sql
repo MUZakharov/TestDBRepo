@@ -1,1 +1,0 @@
-Code of external routine "int2ge"(int2ge) is not available

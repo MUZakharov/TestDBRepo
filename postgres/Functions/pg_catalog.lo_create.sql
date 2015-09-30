@@ -1,1 +1,0 @@
-Code of external routine "lo_create"(lo_create) is not available

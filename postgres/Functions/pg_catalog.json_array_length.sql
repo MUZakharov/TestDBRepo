@@ -1,1 +1,0 @@
-Code of external routine "json_array_length"(json_array_length) is not available

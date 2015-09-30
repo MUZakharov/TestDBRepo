@@ -1,1 +1,0 @@
-Code of external routine "tsquerysend"(tsquerysend) is not available

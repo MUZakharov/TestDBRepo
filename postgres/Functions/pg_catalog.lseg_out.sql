@@ -1,1 +1,0 @@
-Code of external routine "lseg_out"(lseg_out) is not available

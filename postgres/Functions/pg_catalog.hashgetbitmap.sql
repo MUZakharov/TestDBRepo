@@ -1,1 +1,0 @@
-Code of external routine "hashgetbitmap"(hashgetbitmap) is not available

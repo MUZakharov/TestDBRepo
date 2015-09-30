@@ -1,1 +1,0 @@
-Code of external routine "array_ne"(array_ne) is not available

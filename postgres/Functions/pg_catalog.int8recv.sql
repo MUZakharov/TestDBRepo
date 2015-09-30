@@ -1,1 +1,0 @@
-Code of external routine "int8recv"(int8recv) is not available

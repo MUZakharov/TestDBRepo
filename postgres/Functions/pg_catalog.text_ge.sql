@@ -1,1 +1,0 @@
-Code of external routine "text_ge"(text_ge) is not available

@@ -1,1 +1,0 @@
-Code of external routine "hashgettuple"(hashgettuple) is not available

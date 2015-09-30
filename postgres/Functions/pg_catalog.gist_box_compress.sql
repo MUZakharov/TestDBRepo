@@ -1,1 +1,0 @@
-Code of external routine "gist_box_compress"(gist_box_compress) is not available

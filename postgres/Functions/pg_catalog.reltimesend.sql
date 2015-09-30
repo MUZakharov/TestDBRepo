@@ -1,1 +1,0 @@
-Code of external routine "reltimesend"(reltimesend) is not available

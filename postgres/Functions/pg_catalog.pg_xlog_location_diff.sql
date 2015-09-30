@@ -1,1 +1,0 @@
-Code of external routine "pg_xlog_location_diff"(pg_xlog_location_diff) is not available

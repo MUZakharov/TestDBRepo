@@ -1,1 +1,0 @@
-Code of external routine "int82gt"(int82gt) is not available

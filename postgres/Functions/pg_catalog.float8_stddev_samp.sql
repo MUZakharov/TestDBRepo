@@ -1,1 +1,0 @@
-Code of external routine "float8_stddev_samp"(float8_stddev_samp) is not available

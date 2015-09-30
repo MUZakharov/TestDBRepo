@@ -1,1 +1,0 @@
-Code of external routine "pg_export_snapshot"(pg_export_snapshot) is not available

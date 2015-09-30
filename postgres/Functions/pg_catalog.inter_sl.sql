@@ -1,1 +1,0 @@
-Code of external routine "inter_sl"(inter_sl) is not available

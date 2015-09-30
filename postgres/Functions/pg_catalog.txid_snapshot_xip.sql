@@ -1,1 +1,0 @@
-Code of external routine "txid_snapshot_xip"(txid_snapshot_xip) is not available

@@ -1,1 +1,0 @@
-Code of external routine "has_language_privilege"(has_language_privilege_name_name) is not available

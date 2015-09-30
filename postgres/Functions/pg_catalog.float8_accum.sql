@@ -1,1 +1,0 @@
-Code of external routine "float8_accum"(float8_accum) is not available

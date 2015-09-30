@@ -1,1 +1,0 @@
-Code of external routine "hashenum"(hashenum) is not available

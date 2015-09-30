@@ -1,1 +1,0 @@
-Code of external routine "int2smaller"(int2smaller) is not available

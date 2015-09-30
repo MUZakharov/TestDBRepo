@@ -1,1 +1,0 @@
-Code of external routine "tsqueryout"(tsqueryout) is not available

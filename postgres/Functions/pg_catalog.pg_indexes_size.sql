@@ -1,1 +1,0 @@
-Code of external routine "pg_indexes_size"(pg_indexes_size) is not available

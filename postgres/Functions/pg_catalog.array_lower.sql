@@ -1,1 +1,0 @@
-Code of external routine "array_lower"(array_lower) is not available

@@ -1,1 +1,0 @@
-Code of external routine "ishorizontal"(point_horiz) is not available

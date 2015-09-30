@@ -1,1 +1,0 @@
-Code of external routine "namelt"(namelt) is not available

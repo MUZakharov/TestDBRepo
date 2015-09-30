@@ -1,1 +1,0 @@
-Code of external routine "int8abs"(int8abs) is not available

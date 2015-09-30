@@ -1,1 +1,0 @@
-Code of external routine "date_eq_timestamp"(date_eq_timestamp) is not available

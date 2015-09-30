@@ -1,1 +1,0 @@
-Code of external routine "tidlt"(tidlt) is not available

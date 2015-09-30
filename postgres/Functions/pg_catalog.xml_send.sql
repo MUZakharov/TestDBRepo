@@ -1,1 +1,0 @@
-Code of external routine "xml_send"(xml_send) is not available

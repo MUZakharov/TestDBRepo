@@ -1,1 +1,0 @@
-Code of external routine "int4abs"(int4abs) is not available

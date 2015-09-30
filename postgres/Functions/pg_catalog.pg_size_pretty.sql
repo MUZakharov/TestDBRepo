@@ -1,1 +1,0 @@
-Code of external routine "pg_size_pretty"(pg_size_pretty) is not available

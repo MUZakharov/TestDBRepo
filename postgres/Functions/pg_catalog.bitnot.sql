@@ -1,1 +1,0 @@
-Code of external routine "bitnot"(bitnot) is not available

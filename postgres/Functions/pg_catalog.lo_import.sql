@@ -1,1 +1,0 @@
-Code of external routine "lo_import"(lo_import) is not available

@@ -1,1 +1,0 @@
-Code of external routine "float8eq"(float8eq) is not available

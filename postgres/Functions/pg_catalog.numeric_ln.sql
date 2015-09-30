@@ -1,1 +1,0 @@
-Code of external routine "numeric_ln"(numeric_ln) is not available

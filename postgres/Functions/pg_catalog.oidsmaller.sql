@@ -1,1 +1,0 @@
-Code of external routine "oidsmaller"(oidsmaller) is not available

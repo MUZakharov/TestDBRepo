@@ -1,1 +1,0 @@
-Code of external routine "int2lt"(int2lt) is not available

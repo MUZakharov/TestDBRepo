@@ -1,1 +1,0 @@
-Code of external routine "enum_lt"(enum_lt) is not available

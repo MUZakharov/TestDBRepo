@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_xact_tuples_fetched"(pg_stat_get_xact_tuples_fetched) is not available

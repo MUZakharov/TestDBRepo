@@ -1,1 +1,0 @@
-Code of external routine "poly_center"(poly_center) is not available

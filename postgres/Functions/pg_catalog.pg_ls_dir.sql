@@ -1,1 +1,0 @@
-Code of external routine "pg_ls_dir"(pg_ls_dir) is not available

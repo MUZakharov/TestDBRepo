@@ -1,1 +1,0 @@
-Code of external routine "int2mul"(int2mul) is not available

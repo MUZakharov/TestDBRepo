@@ -1,1 +1,0 @@
-Code of external routine "bpcharregexne"(textregexne) is not available

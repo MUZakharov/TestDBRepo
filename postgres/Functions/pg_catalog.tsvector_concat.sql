@@ -1,1 +1,0 @@
-Code of external routine "tsvector_concat"(tsvector_concat) is not available

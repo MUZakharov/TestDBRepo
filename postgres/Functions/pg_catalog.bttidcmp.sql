@@ -1,1 +1,0 @@
-Code of external routine "bttidcmp"(bttidcmp) is not available

@@ -1,1 +1,0 @@
-Code of external routine "daterange"(range_constructor2) is not available

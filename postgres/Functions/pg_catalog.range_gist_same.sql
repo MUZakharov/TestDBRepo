@@ -1,1 +1,0 @@
-Code of external routine "range_gist_same"(range_gist_same) is not available

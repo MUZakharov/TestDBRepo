@@ -1,1 +1,0 @@
-Code of external routine "array_dims"(array_dims) is not available

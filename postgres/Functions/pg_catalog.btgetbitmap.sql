@@ -1,1 +1,0 @@
-Code of external routine "btgetbitmap"(btgetbitmap) is not available

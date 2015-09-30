@@ -1,1 +1,0 @@
-Code of external routine "language_handler_out"(language_handler_out) is not available

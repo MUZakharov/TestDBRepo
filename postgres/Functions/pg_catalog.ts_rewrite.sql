@@ -1,1 +1,0 @@
-Code of external routine "ts_rewrite"(tsquery_rewrite) is not available

@@ -1,1 +1,0 @@
-Code of external routine "domain_recv"(domain_recv) is not available

@@ -1,1 +1,0 @@
-Code of external routine "scalargtsel"(scalargtsel) is not available

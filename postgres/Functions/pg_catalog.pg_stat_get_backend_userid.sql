@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_backend_userid"(pg_stat_get_backend_userid) is not available

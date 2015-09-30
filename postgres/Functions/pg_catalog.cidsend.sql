@@ -1,1 +1,0 @@
-Code of external routine "cidsend"(cidsend) is not available

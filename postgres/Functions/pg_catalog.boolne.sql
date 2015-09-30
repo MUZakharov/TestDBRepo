@@ -1,1 +1,0 @@
-Code of external routine "boolne"(boolne) is not available

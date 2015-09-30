@@ -1,1 +1,0 @@
-Code of external routine "txid_snapshot_xmax"(txid_snapshot_xmax) is not available

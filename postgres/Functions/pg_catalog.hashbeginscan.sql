@@ -1,1 +1,0 @@
-Code of external routine "hashbeginscan"(hashbeginscan) is not available

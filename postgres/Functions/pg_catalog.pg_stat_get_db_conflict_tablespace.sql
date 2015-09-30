@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_db_conflict_tablespace"(pg_stat_get_db_conflict_tablespace) is not available

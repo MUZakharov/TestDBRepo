@@ -1,1 +1,0 @@
-Code of external routine "numeric_smaller"(numeric_smaller) is not available

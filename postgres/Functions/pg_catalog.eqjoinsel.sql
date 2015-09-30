@@ -1,1 +1,0 @@
-Code of external routine "eqjoinsel"(eqjoinsel) is not available

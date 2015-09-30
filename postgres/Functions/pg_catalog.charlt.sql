@@ -1,1 +1,0 @@
-Code of external routine "charlt"(charlt) is not available

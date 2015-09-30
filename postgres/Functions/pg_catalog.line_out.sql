@@ -1,1 +1,0 @@
-Code of external routine "line_out"(line_out) is not available

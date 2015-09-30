@@ -1,1 +1,0 @@
-Code of external routine "date_out"(date_out) is not available

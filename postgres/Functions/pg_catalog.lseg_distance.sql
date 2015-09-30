@@ -1,1 +1,0 @@
-Code of external routine "lseg_distance"(lseg_distance) is not available

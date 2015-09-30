@@ -1,1 +1,0 @@
-Code of external routine "int4or"(int4or) is not available

@@ -1,1 +1,0 @@
-Code of external routine "lseg"(lseg_construct) is not available

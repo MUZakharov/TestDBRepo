@@ -1,1 +1,0 @@
-Code of external routine "regclasssend"(regclasssend) is not available

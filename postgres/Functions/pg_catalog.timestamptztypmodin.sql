@@ -1,1 +1,0 @@
-Code of external routine "timestamptztypmodin"(timestamptztypmodin) is not available

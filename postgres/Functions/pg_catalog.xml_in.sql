@@ -1,1 +1,0 @@
-Code of external routine "xml_in"(xml_in) is not available

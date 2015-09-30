@@ -1,1 +1,0 @@
-Code of external routine "lseg_eq"(lseg_eq) is not available

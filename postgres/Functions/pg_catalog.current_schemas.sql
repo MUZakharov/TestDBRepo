@@ -1,1 +1,0 @@
-Code of external routine "current_schemas"(current_schemas) is not available

@@ -1,1 +1,0 @@
-Code of external routine "enum_send"(enum_send) is not available

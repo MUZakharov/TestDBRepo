@@ -1,1 +1,0 @@
-Code of external routine "path_n_lt"(path_n_lt) is not available

@@ -1,1 +1,0 @@
-Code of external routine "gist_point_consistent"(gist_point_consistent) is not available

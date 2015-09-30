@@ -1,1 +1,0 @@
-Code of external routine "aclitemeq"(aclitem_eq) is not available

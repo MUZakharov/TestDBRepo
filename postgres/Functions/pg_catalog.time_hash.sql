@@ -1,1 +1,0 @@
-Code of external routine "time_hash"(time_hash) is not available

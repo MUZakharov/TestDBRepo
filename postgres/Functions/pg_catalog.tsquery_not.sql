@@ -1,1 +1,0 @@
-Code of external routine "tsquery_not"(tsquery_not) is not available

@@ -1,1 +1,0 @@
-Code of external routine "gin_cmp_prefix"(gin_cmp_prefix) is not available

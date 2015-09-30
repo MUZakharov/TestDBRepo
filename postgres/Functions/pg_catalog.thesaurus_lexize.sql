@@ -1,1 +1,0 @@
-Code of external routine "thesaurus_lexize"(thesaurus_lexize) is not available

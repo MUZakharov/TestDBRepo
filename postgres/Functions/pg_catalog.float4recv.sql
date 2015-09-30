@@ -1,1 +1,0 @@
-Code of external routine "float4recv"(float4recv) is not available

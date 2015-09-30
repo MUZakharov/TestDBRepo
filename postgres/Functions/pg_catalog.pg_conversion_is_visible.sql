@@ -1,1 +1,0 @@
-Code of external routine "pg_conversion_is_visible"(pg_conversion_is_visible) is not available

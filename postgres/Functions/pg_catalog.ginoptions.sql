@@ -1,1 +1,0 @@
-Code of external routine "ginoptions"(ginoptions) is not available

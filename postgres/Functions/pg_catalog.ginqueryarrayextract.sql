@@ -1,1 +1,0 @@
-Code of external routine "ginqueryarrayextract"(ginqueryarrayextract) is not available

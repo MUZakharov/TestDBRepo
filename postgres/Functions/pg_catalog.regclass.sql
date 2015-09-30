@@ -1,1 +1,0 @@
-Code of external routine "regclass"(text_regclass) is not available

@@ -1,1 +1,0 @@
-Code of external routine "timestamp_cmp"(timestamp_cmp) is not available

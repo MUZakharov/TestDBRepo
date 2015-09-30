@@ -1,1 +1,0 @@
-Code of external routine "currtid2"(currtid_byrelname) is not available

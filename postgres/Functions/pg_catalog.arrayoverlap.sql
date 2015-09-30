@@ -1,1 +1,0 @@
-Code of external routine "arrayoverlap"(arrayoverlap) is not available

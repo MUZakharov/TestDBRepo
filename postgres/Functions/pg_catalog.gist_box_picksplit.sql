@@ -1,1 +1,0 @@
-Code of external routine "gist_box_picksplit"(gist_box_picksplit) is not available

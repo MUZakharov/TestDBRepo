@@ -1,1 +1,0 @@
-Code of external routine "tintervalin"(tintervalin) is not available

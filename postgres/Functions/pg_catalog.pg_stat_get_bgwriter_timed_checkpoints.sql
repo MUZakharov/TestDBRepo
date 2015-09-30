@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_bgwriter_timed_checkpoints"(pg_stat_get_bgwriter_timed_checkpoints) is not available

@@ -1,1 +1,0 @@
-Code of external routine "regconfigout"(regconfigout) is not available

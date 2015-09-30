@@ -1,1 +1,0 @@
-Code of external routine "format"(text_format) is not available

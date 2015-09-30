@@ -1,1 +1,0 @@
-Code of external routine "tintervalrecv"(tintervalrecv) is not available

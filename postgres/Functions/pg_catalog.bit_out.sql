@@ -1,1 +1,0 @@
-Code of external routine "bit_out"(bit_out) is not available

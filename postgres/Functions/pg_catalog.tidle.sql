@@ -1,1 +1,0 @@
-Code of external routine "tidle"(tidle) is not available

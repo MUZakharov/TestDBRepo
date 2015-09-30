@@ -1,1 +1,0 @@
-Code of external routine "current_user"(current_user) is not available

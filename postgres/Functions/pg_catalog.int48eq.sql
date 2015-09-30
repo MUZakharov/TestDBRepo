@@ -1,1 +1,0 @@
-Code of external routine "int48eq"(int48eq) is not available

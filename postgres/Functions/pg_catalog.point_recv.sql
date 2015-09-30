@@ -1,1 +1,0 @@
-Code of external routine "point_recv"(point_recv) is not available

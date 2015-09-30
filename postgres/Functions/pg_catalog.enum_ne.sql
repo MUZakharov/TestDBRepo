@@ -1,1 +1,0 @@
-Code of external routine "enum_ne"(enum_ne) is not available

@@ -1,1 +1,0 @@
-Code of external routine "datetimetz_pl"(datetimetz_timestamptz) is not available

@@ -1,1 +1,0 @@
-Code of external routine "width"(box_width) is not available

@@ -1,1 +1,0 @@
-Code of external routine "int48ne"(int48ne) is not available

@@ -1,1 +1,0 @@
-Code of external routine "bpcharregexeq"(textregexeq) is not available

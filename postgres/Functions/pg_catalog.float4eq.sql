@@ -1,1 +1,0 @@
-Code of external routine "float4eq"(float4eq) is not available

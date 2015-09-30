@@ -1,1 +1,0 @@
-Code of external routine "int2div"(int2div) is not available

@@ -1,1 +1,0 @@
-Code of external routine "array_smaller"(array_smaller) is not available

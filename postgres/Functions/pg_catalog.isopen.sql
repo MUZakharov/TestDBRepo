@@ -1,1 +1,0 @@
-Code of external routine "isopen"(path_isopen) is not available

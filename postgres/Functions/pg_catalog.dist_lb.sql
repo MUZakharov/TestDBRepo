@@ -1,1 +1,0 @@
-Code of external routine "dist_lb"(dist_lb) is not available

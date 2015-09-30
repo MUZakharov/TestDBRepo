@@ -1,1 +1,0 @@
-Code of external routine "timetztypmodout"(timetztypmodout) is not available

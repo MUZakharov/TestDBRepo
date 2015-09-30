@@ -1,1 +1,0 @@
-Code of external routine "lseg_send"(lseg_send) is not available

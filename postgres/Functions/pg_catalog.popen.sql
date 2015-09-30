@@ -1,1 +1,0 @@
-Code of external routine "popen"(path_open) is not available

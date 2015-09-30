@@ -1,1 +1,0 @@
-Code of external routine "circle_ge"(circle_ge) is not available

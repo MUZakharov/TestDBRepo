@@ -1,1 +1,0 @@
-Code of external routine "int4shr"(int4shr) is not available

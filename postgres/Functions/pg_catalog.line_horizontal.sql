@@ -1,1 +1,0 @@
-Code of external routine "line_horizontal"(line_horizontal) is not available

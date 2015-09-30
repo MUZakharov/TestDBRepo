@@ -1,1 +1,0 @@
-Code of external routine "varbittypmodout"(varbittypmodout) is not available

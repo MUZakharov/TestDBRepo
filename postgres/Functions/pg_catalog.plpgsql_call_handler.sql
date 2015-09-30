@@ -1,1 +1,0 @@
-Code of external routine "plpgsql_call_handler"(plpgsql_call_handler) is not available

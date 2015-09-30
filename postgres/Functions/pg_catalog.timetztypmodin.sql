@@ -1,1 +1,0 @@
-Code of external routine "timetztypmodin"(timetztypmodin) is not available

@@ -1,1 +1,0 @@
-Code of external routine "btnamecmp"(btnamecmp) is not available

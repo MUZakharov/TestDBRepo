@@ -1,1 +1,0 @@
-Code of external routine "unnest"(array_unnest) is not available

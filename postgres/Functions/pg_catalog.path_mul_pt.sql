@@ -1,1 +1,0 @@
-Code of external routine "path_mul_pt"(path_mul_pt) is not available

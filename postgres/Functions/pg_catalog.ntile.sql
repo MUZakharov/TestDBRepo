@@ -1,1 +1,0 @@
-Code of external routine "ntile"(window_ntile) is not available

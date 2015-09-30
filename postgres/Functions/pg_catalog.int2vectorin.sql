@@ -1,1 +1,0 @@
-Code of external routine "int2vectorin"(int2vectorin) is not available

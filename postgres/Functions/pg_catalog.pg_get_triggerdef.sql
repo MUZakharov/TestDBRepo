@@ -1,1 +1,0 @@
-Code of external routine "pg_get_triggerdef"(pg_get_triggerdef) is not available

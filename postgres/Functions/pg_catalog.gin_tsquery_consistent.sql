@@ -1,1 +1,0 @@
-Code of external routine "gin_tsquery_consistent"(gin_tsquery_consistent) is not available

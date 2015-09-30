@@ -1,1 +1,0 @@
-Code of external routine "regexeqsel"(regexeqsel) is not available

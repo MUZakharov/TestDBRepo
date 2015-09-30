@@ -1,1 +1,0 @@
-Code of external routine "tintervalge"(tintervalge) is not available

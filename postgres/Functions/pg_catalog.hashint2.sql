@@ -1,1 +1,0 @@
-Code of external routine "hashint2"(hashint2) is not available

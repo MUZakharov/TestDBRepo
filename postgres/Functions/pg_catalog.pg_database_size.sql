@@ -1,1 +1,0 @@
-Code of external routine "pg_database_size"(pg_database_size_oid) is not available

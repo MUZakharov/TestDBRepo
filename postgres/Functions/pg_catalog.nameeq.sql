@@ -1,1 +1,0 @@
-Code of external routine "nameeq"(nameeq) is not available

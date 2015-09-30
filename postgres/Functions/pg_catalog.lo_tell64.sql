@@ -1,1 +1,0 @@
-Code of external routine "lo_tell64"(lo_tell64) is not available

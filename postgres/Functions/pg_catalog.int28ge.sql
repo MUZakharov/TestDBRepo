@@ -1,1 +1,0 @@
-Code of external routine "int28ge"(int28ge) is not available

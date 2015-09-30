@@ -1,1 +1,0 @@
-Code of external routine "cstring_send"(cstring_send) is not available

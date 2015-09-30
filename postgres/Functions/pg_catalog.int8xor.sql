@@ -1,1 +1,0 @@
-Code of external routine "int8xor"(int8xor) is not available

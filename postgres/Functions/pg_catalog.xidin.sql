@@ -1,1 +1,0 @@
-Code of external routine "xidin"(xidin) is not available

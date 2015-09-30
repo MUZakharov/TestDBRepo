@@ -1,1 +1,0 @@
-Code of external routine "btbulkdelete"(btbulkdelete) is not available

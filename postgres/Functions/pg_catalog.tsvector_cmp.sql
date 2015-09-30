@@ -1,1 +1,0 @@
-Code of external routine "tsvector_cmp"(tsvector_cmp) is not available

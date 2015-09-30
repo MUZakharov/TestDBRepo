@@ -1,1 +1,0 @@
-Code of external routine "ts_typanalyze"(ts_typanalyze) is not available

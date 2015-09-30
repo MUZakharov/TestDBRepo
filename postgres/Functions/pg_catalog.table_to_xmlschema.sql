@@ -1,1 +1,0 @@
-Code of external routine "table_to_xmlschema"(table_to_xmlschema) is not available

@@ -1,1 +1,0 @@
-Code of external routine "pg_typeof"(pg_typeof) is not available

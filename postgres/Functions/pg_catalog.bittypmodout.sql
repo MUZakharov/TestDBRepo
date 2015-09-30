@@ -1,1 +1,0 @@
-Code of external routine "bittypmodout"(bittypmodout) is not available

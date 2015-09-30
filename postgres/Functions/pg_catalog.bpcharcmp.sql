@@ -1,1 +1,0 @@
-Code of external routine "bpcharcmp"(bpcharcmp) is not available

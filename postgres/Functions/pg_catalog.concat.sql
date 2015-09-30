@@ -1,1 +1,0 @@
-Code of external routine "concat"(text_concat) is not available

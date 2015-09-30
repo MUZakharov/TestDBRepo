@@ -1,1 +1,0 @@
-Code of external routine "gtsvector_penalty"(gtsvector_penalty) is not available

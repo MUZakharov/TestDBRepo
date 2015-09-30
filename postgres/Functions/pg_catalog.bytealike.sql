@@ -1,1 +1,0 @@
-Code of external routine "bytealike"(bytealike) is not available

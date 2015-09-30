@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_dead_tuples"(pg_stat_get_dead_tuples) is not available

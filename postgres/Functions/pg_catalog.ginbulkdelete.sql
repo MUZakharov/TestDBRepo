@@ -1,1 +1,0 @@
-Code of external routine "ginbulkdelete"(ginbulkdelete) is not available

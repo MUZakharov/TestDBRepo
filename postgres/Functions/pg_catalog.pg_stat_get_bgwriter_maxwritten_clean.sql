@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_bgwriter_maxwritten_clean"(pg_stat_get_bgwriter_maxwritten_clean) is not available

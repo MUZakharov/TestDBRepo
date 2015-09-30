@@ -1,1 +1,0 @@
-Code of external routine "float8"(i2tod) is not available

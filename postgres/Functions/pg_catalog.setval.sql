@@ -1,1 +1,0 @@
-Code of external routine "setval"(setval_oid) is not available

@@ -1,1 +1,0 @@
-Code of external routine "cume_dist"(window_cume_dist) is not available

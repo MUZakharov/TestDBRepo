@@ -1,1 +1,0 @@
-Code of external routine "abbrev"(inet_abbrev) is not available

@@ -1,1 +1,0 @@
-Code of external routine "plainto_tsquery"(plainto_tsquery_byid) is not available

@@ -1,1 +1,0 @@
-Code of external routine "format_type"(format_type) is not available

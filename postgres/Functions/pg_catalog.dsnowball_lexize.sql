@@ -1,1 +1,0 @@
-Code of external routine "dsnowball_lexize"(dsnowball_lexize) is not available

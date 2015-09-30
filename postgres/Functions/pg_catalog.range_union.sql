@@ -1,1 +1,0 @@
-Code of external routine "range_union"(range_union) is not available

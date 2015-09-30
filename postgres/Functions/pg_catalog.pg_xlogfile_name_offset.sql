@@ -1,1 +1,0 @@
-Code of external routine "pg_xlogfile_name_offset"(pg_xlogfile_name_offset) is not available

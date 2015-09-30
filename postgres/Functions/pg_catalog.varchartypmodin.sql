@@ -1,1 +1,0 @@
-Code of external routine "varchartypmodin"(varchartypmodin) is not available

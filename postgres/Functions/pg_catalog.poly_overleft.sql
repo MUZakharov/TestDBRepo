@@ -1,1 +1,0 @@
-Code of external routine "poly_overleft"(poly_overleft) is not available

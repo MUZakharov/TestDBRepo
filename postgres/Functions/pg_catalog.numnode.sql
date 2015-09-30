@@ -1,1 +1,0 @@
-Code of external routine "numnode"(tsquery_numnode) is not available

@@ -1,1 +1,0 @@
-Code of external routine "circle_recv"(circle_recv) is not available

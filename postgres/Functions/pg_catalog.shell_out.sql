@@ -1,1 +1,0 @@
-Code of external routine "shell_out"(shell_out) is not available

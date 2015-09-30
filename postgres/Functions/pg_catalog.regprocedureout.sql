@@ -1,1 +1,0 @@
-Code of external routine "regprocedureout"(regprocedureout) is not available

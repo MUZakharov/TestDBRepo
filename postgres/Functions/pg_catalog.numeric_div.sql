@@ -1,1 +1,0 @@
-Code of external routine "numeric_div"(numeric_div) is not available

@@ -1,1 +1,0 @@
-Code of external routine "timetz_pl_interval"(timetz_pl_interval) is not available

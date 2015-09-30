@@ -1,1 +1,0 @@
-Code of external routine "pg_encoding_to_char"(PG_encoding_to_char) is not available

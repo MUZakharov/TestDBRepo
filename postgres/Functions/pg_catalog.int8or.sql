@@ -1,1 +1,0 @@
-Code of external routine "int8or"(int8or) is not available

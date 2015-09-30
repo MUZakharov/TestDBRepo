@@ -1,1 +1,0 @@
-Code of external routine "xmlconcat2"(xmlconcat2) is not available

@@ -1,1 +1,0 @@
-Code of external routine "varbit_recv"(varbit_recv) is not available

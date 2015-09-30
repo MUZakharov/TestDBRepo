@@ -1,1 +1,0 @@
-Code of external routine "float8ge"(float8ge) is not available

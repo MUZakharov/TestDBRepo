@@ -1,1 +1,0 @@
-Code of external routine "timetz_send"(timetz_send) is not available

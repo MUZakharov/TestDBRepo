@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_backend_dbid"(pg_stat_get_backend_dbid) is not available

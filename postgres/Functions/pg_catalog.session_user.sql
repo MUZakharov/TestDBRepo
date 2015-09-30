@@ -1,1 +1,0 @@
-Code of external routine "session_user"(session_user) is not available

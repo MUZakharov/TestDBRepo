@@ -1,1 +1,0 @@
-Code of external routine "similar_escape"(similar_escape) is not available

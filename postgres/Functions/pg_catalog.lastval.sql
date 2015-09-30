@@ -1,1 +1,0 @@
-Code of external routine "lastval"(lastval) is not available

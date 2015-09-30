@@ -1,1 +1,0 @@
-Code of external routine "neqjoinsel"(neqjoinsel) is not available

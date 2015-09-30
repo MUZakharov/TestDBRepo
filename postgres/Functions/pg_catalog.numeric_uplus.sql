@@ -1,1 +1,0 @@
-Code of external routine "numeric_uplus"(numeric_uplus) is not available

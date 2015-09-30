@@ -1,1 +1,0 @@
-Code of external routine "int8range_canonical"(int8range_canonical) is not available

@@ -1,1 +1,0 @@
-Code of external routine "oidvectorrecv"(oidvectorrecv) is not available

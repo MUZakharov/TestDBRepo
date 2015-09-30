@@ -1,1 +1,0 @@
-Code of external routine "macaddr_recv"(macaddr_recv) is not available

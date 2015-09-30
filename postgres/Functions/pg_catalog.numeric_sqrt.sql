@@ -1,1 +1,0 @@
-Code of external routine "numeric_sqrt"(numeric_sqrt) is not available

@@ -1,1 +1,0 @@
-Code of external routine "regoperatorout"(regoperatorout) is not available

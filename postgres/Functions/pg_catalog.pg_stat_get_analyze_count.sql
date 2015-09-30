@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_analyze_count"(pg_stat_get_analyze_count) is not available

@@ -1,1 +1,0 @@
-Code of external routine "slope"(point_slope) is not available

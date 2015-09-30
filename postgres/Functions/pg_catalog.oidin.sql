@@ -1,1 +1,0 @@
-Code of external routine "oidin"(oidin) is not available

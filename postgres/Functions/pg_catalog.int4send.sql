@@ -1,1 +1,0 @@
-Code of external routine "int4send"(int4send) is not available

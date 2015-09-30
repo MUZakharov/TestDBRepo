@@ -1,1 +1,0 @@
-Code of external routine "dsnowball_init"(dsnowball_init) is not available

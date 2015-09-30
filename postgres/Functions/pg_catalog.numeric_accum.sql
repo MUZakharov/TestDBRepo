@@ -1,1 +1,0 @@
-Code of external routine "numeric_accum"(numeric_accum) is not available

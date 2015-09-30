@@ -1,1 +1,0 @@
-Code of external routine "enum_ge"(enum_ge) is not available

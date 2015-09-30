@@ -1,1 +1,0 @@
-Code of external routine "currtid"(currtid_byreloid) is not available

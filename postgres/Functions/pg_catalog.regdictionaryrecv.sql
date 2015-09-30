@@ -1,1 +1,0 @@
-Code of external routine "regdictionaryrecv"(regdictionaryrecv) is not available

@@ -1,1 +1,0 @@
-Code of external routine "reltimege"(reltimege) is not available

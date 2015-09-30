@@ -1,1 +1,0 @@
-Code of external routine "textregexne"(textregexne) is not available

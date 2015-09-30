@@ -1,1 +1,0 @@
-Code of external routine "bpcharicregexne"(texticregexne) is not available

@@ -1,1 +1,0 @@
-Code of external routine "ginarrayextract"(ginarrayextract) is not available

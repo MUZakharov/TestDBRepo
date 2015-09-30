@@ -1,1 +1,0 @@
-Code of external routine "pg_reload_conf"(pg_reload_conf) is not available

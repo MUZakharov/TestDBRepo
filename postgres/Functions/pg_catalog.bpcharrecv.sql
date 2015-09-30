@@ -1,1 +1,0 @@
-Code of external routine "bpcharrecv"(bpcharrecv) is not available

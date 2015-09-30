@@ -1,1 +1,0 @@
-Code of external routine "oidne"(oidne) is not available

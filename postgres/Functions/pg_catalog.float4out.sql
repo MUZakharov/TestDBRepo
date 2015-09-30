@@ -1,1 +1,0 @@
-Code of external routine "float4out"(float4out) is not available

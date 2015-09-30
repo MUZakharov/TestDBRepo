@@ -1,1 +1,0 @@
-Code of external routine "oidvectorin"(oidvectorin) is not available

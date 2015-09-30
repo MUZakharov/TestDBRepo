@@ -1,1 +1,0 @@
-Code of external routine "varbitne"(bitne) is not available

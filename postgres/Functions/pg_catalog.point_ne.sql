@@ -1,1 +1,0 @@
-Code of external routine "point_ne"(point_ne) is not available

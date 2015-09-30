@@ -1,1 +1,0 @@
-Code of external routine "varchar_transform"(varchar_transform) is not available

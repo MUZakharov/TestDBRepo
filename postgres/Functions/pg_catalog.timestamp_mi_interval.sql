@@ -1,1 +1,0 @@
-Code of external routine "timestamp_mi_interval"(timestamp_mi_interval) is not available

@@ -1,1 +1,0 @@
-Code of external routine "prsd_lextype"(prsd_lextype) is not available

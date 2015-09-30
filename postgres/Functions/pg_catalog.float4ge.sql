@@ -1,1 +1,0 @@
-Code of external routine "float4ge"(float4ge) is not available

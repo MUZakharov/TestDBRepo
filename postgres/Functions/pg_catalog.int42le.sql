@@ -1,1 +1,0 @@
-Code of external routine "int42le"(int42le) is not available

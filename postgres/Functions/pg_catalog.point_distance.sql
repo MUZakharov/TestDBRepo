@@ -1,1 +1,0 @@
-Code of external routine "point_distance"(point_distance) is not available

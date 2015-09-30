@@ -1,1 +1,0 @@
-Code of external routine "bitshiftleft"(bitshiftleft) is not available

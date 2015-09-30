@@ -1,1 +1,0 @@
-Code of external routine "int24lt"(int24lt) is not available

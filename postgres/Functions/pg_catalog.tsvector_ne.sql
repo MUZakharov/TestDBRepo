@@ -1,1 +1,0 @@
-Code of external routine "tsvector_ne"(tsvector_ne) is not available

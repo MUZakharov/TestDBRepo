@@ -1,1 +1,0 @@
-Code of external routine "interval_eq"(interval_eq) is not available

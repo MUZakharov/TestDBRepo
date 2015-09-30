@@ -1,1 +1,0 @@
-Code of external routine "range_gist_consistent"(range_gist_consistent) is not available

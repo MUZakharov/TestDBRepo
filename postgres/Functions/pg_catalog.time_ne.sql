@@ -1,1 +1,0 @@
-Code of external routine "time_ne"(time_ne) is not available

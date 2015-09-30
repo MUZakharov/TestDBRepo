@@ -1,1 +1,0 @@
-Code of external routine "cashsmaller"(cashsmaller) is not available

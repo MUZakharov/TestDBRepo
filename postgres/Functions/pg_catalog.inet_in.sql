@@ -1,1 +1,0 @@
-Code of external routine "inet_in"(inet_in) is not available

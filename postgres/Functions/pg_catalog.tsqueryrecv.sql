@@ -1,1 +1,0 @@
-Code of external routine "tsqueryrecv"(tsqueryrecv) is not available

@@ -1,1 +1,0 @@
-Code of external routine "path_distance"(path_distance) is not available

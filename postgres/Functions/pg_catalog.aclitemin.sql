@@ -1,1 +1,0 @@
-Code of external routine "aclitemin"(aclitemin) is not available

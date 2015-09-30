@@ -1,1 +1,0 @@
-Code of external routine "has_type_privilege"(has_type_privilege_name_name) is not available

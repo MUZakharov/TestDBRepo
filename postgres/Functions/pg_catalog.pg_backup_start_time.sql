@@ -1,1 +1,0 @@
-Code of external routine "pg_backup_start_time"(pg_backup_start_time) is not available

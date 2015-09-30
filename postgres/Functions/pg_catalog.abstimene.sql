@@ -1,1 +1,0 @@
-Code of external routine "abstimene"(abstimene) is not available

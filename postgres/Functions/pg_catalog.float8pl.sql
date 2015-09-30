@@ -1,1 +1,0 @@
-Code of external routine "float8pl"(float8pl) is not available

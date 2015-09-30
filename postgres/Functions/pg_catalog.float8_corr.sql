@@ -1,1 +1,0 @@
-Code of external routine "float8_corr"(float8_corr) is not available

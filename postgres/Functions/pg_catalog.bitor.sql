@@ -1,1 +1,0 @@
-Code of external routine "bitor"(bit_or) is not available

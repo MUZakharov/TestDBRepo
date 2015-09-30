@@ -1,1 +1,0 @@
-Code of external routine "text_pattern_lt"(text_pattern_lt) is not available

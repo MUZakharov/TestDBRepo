@@ -1,1 +1,0 @@
-Code of external routine "uuid_hash"(uuid_hash) is not available

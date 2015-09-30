@@ -1,1 +1,0 @@
-Code of external routine "varbitcmp"(bitcmp) is not available

@@ -1,1 +1,0 @@
-Code of external routine "int2gt"(int2gt) is not available

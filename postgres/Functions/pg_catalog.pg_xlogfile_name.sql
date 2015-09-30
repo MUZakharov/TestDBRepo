@@ -1,1 +1,0 @@
-Code of external routine "pg_xlogfile_name"(pg_xlogfile_name) is not available

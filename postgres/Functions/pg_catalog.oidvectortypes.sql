@@ -1,1 +1,0 @@
-Code of external routine "oidvectortypes"(oidvectortypes) is not available

@@ -1,1 +1,0 @@
-Code of external routine "poly_out"(poly_out) is not available

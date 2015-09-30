@@ -1,1 +1,0 @@
-Code of external routine "timestamptz_smaller"(timestamp_smaller) is not available

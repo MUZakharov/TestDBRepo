@@ -1,1 +1,0 @@
-Code of external routine "gtsquery_picksplit"(gtsquery_picksplit) is not available

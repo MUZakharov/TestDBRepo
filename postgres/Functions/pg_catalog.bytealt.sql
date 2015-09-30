@@ -1,1 +1,0 @@
-Code of external routine "bytealt"(bytealt) is not available

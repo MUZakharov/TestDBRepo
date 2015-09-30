@@ -1,1 +1,0 @@
-Code of external routine "date_ge"(date_ge) is not available

@@ -1,1 +1,0 @@
-Code of external routine "nlikesel"(nlikesel) is not available

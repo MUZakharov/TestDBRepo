@@ -1,1 +1,0 @@
-Code of external routine "bpchar"(name_bpchar) is not available

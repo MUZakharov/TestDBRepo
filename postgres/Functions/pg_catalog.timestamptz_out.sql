@@ -1,1 +1,0 @@
-Code of external routine "timestamptz_out"(timestamptz_out) is not available

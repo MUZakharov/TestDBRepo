@@ -1,1 +1,0 @@
-Code of external routine "path_add"(path_add) is not available

@@ -1,1 +1,0 @@
-Code of external routine "initcap"(initcap) is not available

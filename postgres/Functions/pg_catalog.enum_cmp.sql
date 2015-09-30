@@ -1,1 +1,0 @@
-Code of external routine "enum_cmp"(enum_cmp) is not available

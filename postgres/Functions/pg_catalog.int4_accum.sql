@@ -1,1 +1,0 @@
-Code of external routine "int4_accum"(int4_accum) is not available

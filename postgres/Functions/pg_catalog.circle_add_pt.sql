@@ -1,1 +1,0 @@
-Code of external routine "circle_add_pt"(circle_add_pt) is not available

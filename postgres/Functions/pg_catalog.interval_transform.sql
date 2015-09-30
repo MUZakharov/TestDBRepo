@@ -1,1 +1,0 @@
-Code of external routine "interval_transform"(interval_transform) is not available

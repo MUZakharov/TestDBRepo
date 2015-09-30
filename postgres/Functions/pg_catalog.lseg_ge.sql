@@ -1,1 +1,0 @@
-Code of external routine "lseg_ge"(lseg_ge) is not available

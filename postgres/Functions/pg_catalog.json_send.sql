@@ -1,1 +1,0 @@
-Code of external routine "json_send"(json_send) is not available

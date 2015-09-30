@@ -1,1 +1,0 @@
-Code of external routine "int8shl"(int8shl) is not available

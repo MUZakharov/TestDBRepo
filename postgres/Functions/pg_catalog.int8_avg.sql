@@ -1,1 +1,0 @@
-Code of external routine "int8_avg"(int8_avg) is not available

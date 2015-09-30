@@ -1,1 +1,0 @@
-Code of external routine "tsvectorrecv"(tsvectorrecv) is not available

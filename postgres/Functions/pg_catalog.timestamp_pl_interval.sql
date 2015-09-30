@@ -1,1 +1,0 @@
-Code of external routine "timestamp_pl_interval"(timestamp_pl_interval) is not available

@@ -1,1 +1,0 @@
-Code of external routine "pg_column_is_updatable"(pg_column_is_updatable) is not available

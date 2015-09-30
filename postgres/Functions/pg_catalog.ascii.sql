@@ -1,1 +1,0 @@
-Code of external routine "ascii"(ascii) is not available

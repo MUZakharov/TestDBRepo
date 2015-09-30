@@ -1,1 +1,0 @@
-Code of external routine "strpos"(textpos) is not available

@@ -1,1 +1,0 @@
-Code of external routine "justify_days"(interval_justify_days) is not available

@@ -1,1 +1,0 @@
-Code of external routine "path_n_eq"(path_n_eq) is not available

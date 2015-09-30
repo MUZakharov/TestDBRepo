@@ -1,1 +1,0 @@
-Code of external routine "float84eq"(float84eq) is not available

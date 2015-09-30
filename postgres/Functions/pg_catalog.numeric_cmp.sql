@@ -1,1 +1,0 @@
-Code of external routine "numeric_cmp"(numeric_cmp) is not available

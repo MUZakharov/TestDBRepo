@@ -1,1 +1,0 @@
-Code of external routine "xml_is_well_formed"(xml_is_well_formed) is not available

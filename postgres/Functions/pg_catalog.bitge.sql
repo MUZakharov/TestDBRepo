@@ -1,1 +1,0 @@
-Code of external routine "bitge"(bitge) is not available

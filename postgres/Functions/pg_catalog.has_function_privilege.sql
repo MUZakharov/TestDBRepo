@@ -1,1 +1,0 @@
-Code of external routine "has_function_privilege"(has_function_privilege_name_name) is not available

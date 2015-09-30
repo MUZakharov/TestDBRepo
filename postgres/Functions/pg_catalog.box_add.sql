@@ -1,1 +1,0 @@
-Code of external routine "box_add"(box_add) is not available

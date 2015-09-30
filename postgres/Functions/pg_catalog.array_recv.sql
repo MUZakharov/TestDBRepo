@@ -1,1 +1,0 @@
-Code of external routine "array_recv"(array_recv) is not available

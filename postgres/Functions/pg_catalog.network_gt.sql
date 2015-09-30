@@ -1,1 +1,0 @@
-Code of external routine "network_gt"(network_gt) is not available

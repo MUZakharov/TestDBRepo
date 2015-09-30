@@ -1,1 +1,0 @@
-Code of external routine "array_out"(array_out) is not available

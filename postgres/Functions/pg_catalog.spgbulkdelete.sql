@@ -1,1 +1,0 @@
-Code of external routine "spgbulkdelete"(spgbulkdelete) is not available

@@ -1,1 +1,0 @@
-Code of external routine "has_tablespace_privilege"(has_tablespace_privilege_name_name) is not available

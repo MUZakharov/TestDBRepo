@@ -1,1 +1,0 @@
-Code of external routine "arraycontsel"(arraycontsel) is not available

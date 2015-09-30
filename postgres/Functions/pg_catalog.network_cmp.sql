@@ -1,1 +1,0 @@
-Code of external routine "network_cmp"(network_cmp) is not available

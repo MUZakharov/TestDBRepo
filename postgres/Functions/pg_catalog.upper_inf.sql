@@ -1,1 +1,0 @@
-Code of external routine "upper_inf"(range_upper_inf) is not available

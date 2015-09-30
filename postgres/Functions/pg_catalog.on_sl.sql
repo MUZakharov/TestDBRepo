@@ -1,1 +1,0 @@
-Code of external routine "on_sl"(on_sl) is not available

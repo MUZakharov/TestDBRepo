@@ -1,1 +1,0 @@
-Code of external routine "pg_extension_update_paths"(pg_extension_update_paths) is not available

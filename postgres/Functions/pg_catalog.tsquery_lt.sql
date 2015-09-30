@@ -1,1 +1,0 @@
-Code of external routine "tsquery_lt"(tsquery_lt) is not available

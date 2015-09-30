@@ -1,1 +1,0 @@
-Code of external routine "float48ne"(float48ne) is not available

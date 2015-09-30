@@ -1,1 +1,0 @@
-Code of external routine "abstimege"(abstimege) is not available

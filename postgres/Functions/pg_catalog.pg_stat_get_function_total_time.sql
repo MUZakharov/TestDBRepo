@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_function_total_time"(pg_stat_get_function_total_time) is not available

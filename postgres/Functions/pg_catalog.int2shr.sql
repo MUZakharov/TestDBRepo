@@ -1,1 +1,0 @@
-Code of external routine "int2shr"(int2shr) is not available

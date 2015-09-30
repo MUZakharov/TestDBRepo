@@ -1,1 +1,0 @@
-Code of external routine "tidsmaller"(tidsmaller) is not available

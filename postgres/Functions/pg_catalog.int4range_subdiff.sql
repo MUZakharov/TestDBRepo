@@ -1,1 +1,0 @@
-Code of external routine "int4range_subdiff"(int4range_subdiff) is not available

@@ -1,1 +1,0 @@
-Code of external routine "set_byte"(byteaSetByte) is not available

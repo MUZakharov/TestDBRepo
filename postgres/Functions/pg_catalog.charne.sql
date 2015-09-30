@@ -1,1 +1,0 @@
-Code of external routine "charne"(charne) is not available

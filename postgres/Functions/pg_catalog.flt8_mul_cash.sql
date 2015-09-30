@@ -1,1 +1,0 @@
-Code of external routine "flt8_mul_cash"(flt8_mul_cash) is not available

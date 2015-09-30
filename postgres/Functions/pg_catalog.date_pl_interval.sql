@@ -1,1 +1,0 @@
-Code of external routine "date_pl_interval"(date_pl_interval) is not available

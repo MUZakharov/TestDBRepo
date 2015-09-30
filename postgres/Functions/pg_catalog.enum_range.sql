@@ -1,1 +1,0 @@
-Code of external routine "enum_range"(enum_range_bounds) is not available

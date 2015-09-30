@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_db_tuples_updated"(pg_stat_get_db_tuples_updated) is not available

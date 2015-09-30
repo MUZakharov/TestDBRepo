@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_db_deadlocks"(pg_stat_get_db_deadlocks) is not available

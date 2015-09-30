@@ -1,1 +1,0 @@
-Code of external routine "int2abs"(int2abs) is not available

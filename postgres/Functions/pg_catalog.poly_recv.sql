@@ -1,1 +1,0 @@
-Code of external routine "poly_recv"(poly_recv) is not available

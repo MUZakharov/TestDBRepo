@@ -1,1 +1,0 @@
-Code of external routine "regproceduresend"(regproceduresend) is not available

@@ -1,1 +1,0 @@
-Code of external routine "boolor_statefunc"(boolor_statefunc) is not available

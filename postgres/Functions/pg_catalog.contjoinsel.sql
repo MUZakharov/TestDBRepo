@@ -1,1 +1,0 @@
-Code of external routine "contjoinsel"(contjoinsel) is not available

@@ -1,1 +1,0 @@
-Code of external routine "justify_hours"(interval_justify_hours) is not available

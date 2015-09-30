@@ -1,1 +1,0 @@
-Code of external routine "bpcharin"(bpcharin) is not available

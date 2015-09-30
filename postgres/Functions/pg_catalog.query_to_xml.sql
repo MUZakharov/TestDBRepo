@@ -1,1 +1,0 @@
-Code of external routine "query_to_xml"(query_to_xml) is not available

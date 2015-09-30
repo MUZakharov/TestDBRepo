@@ -1,1 +1,0 @@
-Code of external routine "cash_eq"(cash_eq) is not available

@@ -1,1 +1,0 @@
-Code of external routine "poly_overlap"(poly_overlap) is not available

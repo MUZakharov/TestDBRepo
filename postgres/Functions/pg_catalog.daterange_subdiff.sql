@@ -1,1 +1,0 @@
-Code of external routine "daterange_subdiff"(daterange_subdiff) is not available

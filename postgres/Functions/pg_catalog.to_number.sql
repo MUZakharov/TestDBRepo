@@ -1,1 +1,0 @@
-Code of external routine "to_number"(numeric_to_number) is not available

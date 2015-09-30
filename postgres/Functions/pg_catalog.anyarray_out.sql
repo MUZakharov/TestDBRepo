@@ -1,1 +1,0 @@
-Code of external routine "anyarray_out"(anyarray_out) is not available

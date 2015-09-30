@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_file"(pg_stat_file) is not available

@@ -1,1 +1,0 @@
-Code of external routine "array_remove"(array_remove) is not available

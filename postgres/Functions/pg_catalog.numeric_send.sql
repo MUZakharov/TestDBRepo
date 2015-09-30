@@ -1,1 +1,0 @@
-Code of external routine "numeric_send"(numeric_send) is not available

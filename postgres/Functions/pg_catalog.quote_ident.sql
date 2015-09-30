@@ -1,1 +1,0 @@
-Code of external routine "quote_ident"(quote_ident) is not available

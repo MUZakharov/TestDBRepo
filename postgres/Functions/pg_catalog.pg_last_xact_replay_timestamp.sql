@@ -1,1 +1,0 @@
-Code of external routine "pg_last_xact_replay_timestamp"(pg_last_xact_replay_timestamp) is not available

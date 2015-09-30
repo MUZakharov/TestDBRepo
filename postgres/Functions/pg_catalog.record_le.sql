@@ -1,1 +1,0 @@
-Code of external routine "record_le"(record_le) is not available

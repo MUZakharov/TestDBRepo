@@ -1,1 +1,0 @@
-Code of external routine "btcharcmp"(btcharcmp) is not available

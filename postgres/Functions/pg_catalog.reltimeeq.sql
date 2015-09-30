@@ -1,1 +1,0 @@
-Code of external routine "reltimeeq"(reltimeeq) is not available

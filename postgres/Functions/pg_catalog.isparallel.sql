@@ -1,1 +1,0 @@
-Code of external routine "isparallel"(lseg_parallel) is not available

@@ -1,1 +1,0 @@
-Code of external routine "int2mod"(int2mod) is not available

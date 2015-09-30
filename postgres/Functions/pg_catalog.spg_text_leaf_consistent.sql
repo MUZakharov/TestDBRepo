@@ -1,1 +1,0 @@
-Code of external routine "spg_text_leaf_consistent"(spg_text_leaf_consistent) is not available

@@ -1,1 +1,0 @@
-Code of external routine "reltimene"(reltimene) is not available

@@ -1,1 +1,0 @@
-Code of external routine "netmask"(network_netmask) is not available

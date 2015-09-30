@@ -1,1 +1,0 @@
-Code of external routine "ts_stat"(ts_stat1) is not available

@@ -1,1 +1,0 @@
-Code of external routine "abstimegt"(abstimegt) is not available

@@ -1,1 +1,0 @@
-Code of external routine "oidge"(oidge) is not available

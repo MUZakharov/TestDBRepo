@@ -1,1 +1,0 @@
-Code of external routine "bit_send"(bit_send) is not available

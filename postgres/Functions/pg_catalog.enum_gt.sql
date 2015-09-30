@@ -1,1 +1,0 @@
-Code of external routine "enum_gt"(enum_gt) is not available

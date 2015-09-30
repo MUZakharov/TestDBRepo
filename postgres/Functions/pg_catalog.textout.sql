@@ -1,1 +1,0 @@
-Code of external routine "textout"(textout) is not available

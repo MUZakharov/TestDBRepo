@@ -1,1 +1,0 @@
-Code of external routine "path_length"(path_length) is not available

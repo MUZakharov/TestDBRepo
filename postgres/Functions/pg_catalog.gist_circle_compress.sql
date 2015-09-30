@@ -1,1 +1,0 @@
-Code of external routine "gist_circle_compress"(gist_circle_compress) is not available

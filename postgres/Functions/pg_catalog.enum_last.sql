@@ -1,1 +1,0 @@
-Code of external routine "enum_last"(enum_last) is not available

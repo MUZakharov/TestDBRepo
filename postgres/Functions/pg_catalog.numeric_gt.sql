@@ -1,1 +1,0 @@
-Code of external routine "numeric_gt"(numeric_gt) is not available

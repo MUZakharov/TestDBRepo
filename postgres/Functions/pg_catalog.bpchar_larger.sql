@@ -1,1 +1,0 @@
-Code of external routine "bpchar_larger"(bpchar_larger) is not available

@@ -1,1 +1,0 @@
-Code of external routine "json_object_keys"(json_object_keys) is not available

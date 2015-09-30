@@ -1,1 +1,0 @@
-Code of external routine "hashinsert"(hashinsert) is not available

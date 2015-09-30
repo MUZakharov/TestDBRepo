@@ -1,1 +1,0 @@
-Code of external routine "int8eq"(int8eq) is not available

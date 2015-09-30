@@ -1,1 +1,0 @@
-Code of external routine "array_length"(array_length) is not available

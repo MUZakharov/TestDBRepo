@@ -1,1 +1,0 @@
-Code of external routine "date_mii"(date_mii) is not available

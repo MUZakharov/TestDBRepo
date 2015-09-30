@@ -1,1 +1,0 @@
-Code of external routine "bpchartypmodout"(bpchartypmodout) is not available

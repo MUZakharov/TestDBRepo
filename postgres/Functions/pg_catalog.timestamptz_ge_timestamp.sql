@@ -1,1 +1,0 @@
-Code of external routine "timestamptz_ge_timestamp"(timestamptz_ge_timestamp) is not available

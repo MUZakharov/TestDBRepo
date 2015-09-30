@@ -1,1 +1,0 @@
-Code of external routine "int28div"(int28div) is not available

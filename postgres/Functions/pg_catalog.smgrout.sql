@@ -1,1 +1,0 @@
-Code of external routine "smgrout"(smgrout) is not available

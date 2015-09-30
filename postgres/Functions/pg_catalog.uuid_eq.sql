@@ -1,1 +1,0 @@
-Code of external routine "uuid_eq"(uuid_eq) is not available

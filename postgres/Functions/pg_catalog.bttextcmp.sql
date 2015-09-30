@@ -1,1 +1,0 @@
-Code of external routine "bttextcmp"(bttextcmp) is not available

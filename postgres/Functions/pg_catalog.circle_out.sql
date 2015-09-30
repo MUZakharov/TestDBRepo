@@ -1,1 +1,0 @@
-Code of external routine "circle_out"(circle_out) is not available

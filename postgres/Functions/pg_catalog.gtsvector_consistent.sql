@@ -1,1 +1,0 @@
-Code of external routine "gtsvector_consistent"(gtsvector_consistent) is not available

@@ -1,1 +1,0 @@
-Code of external routine "point_mul"(point_mul) is not available

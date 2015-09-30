@@ -1,1 +1,0 @@
-Code of external routine "bpchar_smaller"(bpchar_smaller) is not available

@@ -1,1 +1,0 @@
-Code of external routine "regclassout"(regclassout) is not available

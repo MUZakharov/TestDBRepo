@@ -1,1 +1,0 @@
-Code of external routine "int4xor"(int4xor) is not available

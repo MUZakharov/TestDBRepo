@@ -1,1 +1,0 @@
-Code of external routine "reverse"(text_reverse) is not available

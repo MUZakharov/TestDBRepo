@@ -1,1 +1,0 @@
-Code of external routine "bit"(bitfromint4) is not available

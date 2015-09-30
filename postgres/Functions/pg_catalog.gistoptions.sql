@@ -1,1 +1,0 @@
-Code of external routine "gistoptions"(gistoptions) is not available

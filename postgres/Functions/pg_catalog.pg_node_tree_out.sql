@@ -1,1 +1,0 @@
-Code of external routine "pg_node_tree_out"(pg_node_tree_out) is not available

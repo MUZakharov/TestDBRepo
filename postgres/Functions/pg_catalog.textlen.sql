@@ -1,1 +1,0 @@
-Code of external routine "textlen"(textlen) is not available

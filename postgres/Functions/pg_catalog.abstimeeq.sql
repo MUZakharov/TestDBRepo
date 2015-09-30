@@ -1,1 +1,0 @@
-Code of external routine "abstimeeq"(abstimeeq) is not available

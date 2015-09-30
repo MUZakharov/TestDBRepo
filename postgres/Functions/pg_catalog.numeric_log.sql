@@ -1,1 +1,0 @@
-Code of external routine "numeric_log"(numeric_log) is not available

@@ -1,1 +1,0 @@
-Code of external routine "int4inc"(int4inc) is not available

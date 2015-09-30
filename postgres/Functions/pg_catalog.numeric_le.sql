@@ -1,1 +1,0 @@
-Code of external routine "numeric_le"(numeric_le) is not available

@@ -1,1 +1,0 @@
-Code of external routine "decode"(binary_decode) is not available

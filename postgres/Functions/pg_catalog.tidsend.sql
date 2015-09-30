@@ -1,1 +1,0 @@
-Code of external routine "tidsend"(tidsend) is not available

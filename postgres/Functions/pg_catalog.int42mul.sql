@@ -1,1 +1,0 @@
-Code of external routine "int42mul"(int42mul) is not available

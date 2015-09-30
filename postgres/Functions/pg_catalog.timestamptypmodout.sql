@@ -1,1 +1,0 @@
-Code of external routine "timestamptypmodout"(timestamptypmodout) is not available

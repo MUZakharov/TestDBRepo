@@ -1,1 +1,0 @@
-Code of external routine "btrecordcmp"(btrecordcmp) is not available

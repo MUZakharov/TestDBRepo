@@ -1,1 +1,0 @@
-Code of external routine "void_send"(void_send) is not available

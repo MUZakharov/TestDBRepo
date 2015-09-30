@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_autoanalyze_count"(pg_stat_get_autoanalyze_count) is not available

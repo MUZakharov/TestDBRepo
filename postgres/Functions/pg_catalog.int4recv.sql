@@ -1,1 +1,0 @@
-Code of external routine "int4recv"(int4recv) is not available

@@ -1,1 +1,0 @@
-Code of external routine "likejoinsel"(likejoinsel) is not available

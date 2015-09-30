@@ -1,1 +1,0 @@
-Code of external routine "numerictypmodin"(numerictypmodin) is not available

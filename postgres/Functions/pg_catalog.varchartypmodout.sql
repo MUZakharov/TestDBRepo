@@ -1,1 +1,0 @@
-Code of external routine "varchartypmodout"(varchartypmodout) is not available

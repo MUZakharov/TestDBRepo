@@ -1,1 +1,0 @@
-Code of external routine "convert_to"(pg_convert_to) is not available

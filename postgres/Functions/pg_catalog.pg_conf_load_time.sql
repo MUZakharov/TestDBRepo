@@ -1,1 +1,0 @@
-Code of external routine "pg_conf_load_time"(pg_conf_load_time) is not available

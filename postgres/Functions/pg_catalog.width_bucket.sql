@@ -1,1 +1,0 @@
-Code of external routine "width_bucket"(width_bucket_float8) is not available

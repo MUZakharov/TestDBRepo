@@ -1,1 +1,0 @@
-Code of external routine "hashinet"(hashinet) is not available

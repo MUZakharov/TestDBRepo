@@ -1,1 +1,0 @@
-Code of external routine "circle_div_pt"(circle_div_pt) is not available

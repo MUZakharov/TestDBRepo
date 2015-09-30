@@ -1,1 +1,0 @@
-Code of external routine "numeric_stddev_pop"(numeric_stddev_pop) is not available

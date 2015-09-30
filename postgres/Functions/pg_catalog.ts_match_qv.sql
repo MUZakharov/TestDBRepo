@@ -1,1 +1,0 @@
-Code of external routine "ts_match_qv"(ts_match_qv) is not available

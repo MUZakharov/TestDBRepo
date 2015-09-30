@@ -1,1 +1,0 @@
-Code of external routine "bpchariclike"(texticlike) is not available

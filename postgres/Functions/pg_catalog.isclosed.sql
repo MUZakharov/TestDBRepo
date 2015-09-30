@@ -1,1 +1,0 @@
-Code of external routine "isclosed"(path_isclosed) is not available

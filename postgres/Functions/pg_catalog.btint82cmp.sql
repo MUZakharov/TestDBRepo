@@ -1,1 +1,0 @@
-Code of external routine "btint82cmp"(btint82cmp) is not available

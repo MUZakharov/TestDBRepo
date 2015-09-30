@@ -1,1 +1,0 @@
-Code of external routine "point_right"(point_right) is not available

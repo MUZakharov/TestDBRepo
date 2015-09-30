@@ -1,1 +1,0 @@
-Code of external routine "range_eq"(range_eq) is not available

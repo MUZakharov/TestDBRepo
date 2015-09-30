@@ -1,1 +1,0 @@
-Code of external routine "path"(poly_path) is not available

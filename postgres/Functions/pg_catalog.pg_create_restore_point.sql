@@ -1,1 +1,0 @@
-Code of external routine "pg_create_restore_point"(pg_create_restore_point) is not available

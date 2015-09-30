@@ -1,1 +1,0 @@
-Code of external routine "pg_lock_status"(pg_lock_status) is not available

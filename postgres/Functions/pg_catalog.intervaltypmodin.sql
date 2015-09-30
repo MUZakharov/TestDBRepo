@@ -1,1 +1,0 @@
-Code of external routine "intervaltypmodin"(intervaltypmodin) is not available

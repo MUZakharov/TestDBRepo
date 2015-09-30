@@ -1,1 +1,0 @@
-Code of external routine "hashname"(hashname) is not available

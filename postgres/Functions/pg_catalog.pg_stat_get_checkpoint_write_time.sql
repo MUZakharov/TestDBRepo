@@ -1,1 +1,0 @@
-Code of external routine "pg_stat_get_checkpoint_write_time"(pg_stat_get_checkpoint_write_time) is not available

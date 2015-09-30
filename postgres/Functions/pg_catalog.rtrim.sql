@@ -1,1 +1,0 @@
-Code of external routine "rtrim"(rtrim) is not available

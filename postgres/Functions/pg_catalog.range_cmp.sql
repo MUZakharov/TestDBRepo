@@ -1,1 +1,0 @@
-Code of external routine "range_cmp"(range_cmp) is not available
