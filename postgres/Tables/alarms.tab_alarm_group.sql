@@ -6,6 +6,7 @@ CREATE TABLE tab_alarm_group (
 );
 
 
+
 ALTER TABLE alarms.tab_alarm_group OWNER TO postgres;
 
 --

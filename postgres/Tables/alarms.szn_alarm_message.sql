@@ -10,7 +10,7 @@ CREATE TABLE szn_alarm_message (
 ALTER TABLE alarms.szn_alarm_message OWNER TO postgres;
 
 --
--- Name:   szn_alarm_message_id_alarm_message_seq; Type: SEQUENCE; Schema: alarms; Owner: postgres
+-- Name: szn_alarm_message_id_alarm_message_seq; Type: SEQUENCE; Schema: alarms; Owner: postgres
 --
 
 CREATE SEQUENCE szn_alarm_message_id_alarm_message_seq
