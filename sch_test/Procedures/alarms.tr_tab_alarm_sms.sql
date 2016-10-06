@@ -16,8 +16,6 @@ BEGIN
 
   v_msg := format(v_msg, NEW.alarm_args);
 
-
-
   FOR v_number IN
     SELECT phone_number
     FROM alarms.tab_subsystem_sms
