@@ -15,7 +15,6 @@ BEGIN
   FROM alarms.szn_alarm_message WHERE id_alarm_message = NEW.id_alarm_message;
 
 
-
   v_msg := format(v_msg, NEW.alarm_args);
 
   FOR v_number IN
