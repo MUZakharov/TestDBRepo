@@ -8,7 +8,7 @@ DECLARE
   v_number varchar;
 
 BEGIN
-
+--
   SELECT dblink.get_conn('sms_cz') INTO v_conn;
 
   SELECT message_text INTO v_msg
