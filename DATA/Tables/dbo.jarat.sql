@@ -6,6 +6,7 @@ GO
 
 CREATE TABLE [dbo].[jarat](
 	[jarat_id] [int] NOT NULL,
+	[jarat_szam] [char](4) NOT NULL,
 	[nyomvon_id] [int] NOT NULL,
 	[jarat_szam] [char](4) NOT NULL,
 	[jarat_indulas] [char](6) NOT NULL,
@@ -23,7 +24,6 @@ CREATE TABLE [dbo].[jarat](
 	[vonal_id] [varchar](5) NULL,
 	[kieg] [int] NULL,
 	[Dijszabas_tipus] [int] NOT NULL,
-	[alacsonypadlos] [bit] NOT NULL,
  CONSTRAINT [PK_jarat] PRIMARY KEY CLUSTERED 
 (
 	[jarat_id] ASC,
@@ -31,9 +31,6 @@ CREATE TABLE [dbo].[jarat](
 )WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
 ) ON [PRIMARY]
 
-GO
-
-ALTER TABLE [dbo].[jarat] ADD  DEFAULT ((0)) FOR [nyomvon_id]
 GO
 
 ALTER TABLE [dbo].[jarat] ADD  DEFAULT ('') FOR [jarat_szam]
@@ -73,4 +70,7 @@ ALTER TABLE [dbo].[jarat] ADD  CONSTRAINT [DF_jarat_Dijszabas_tipus]  DEFAULT ((
 GO
 
 ALTER TABLE [dbo].[jarat] ADD  CONSTRAINT [DF_jarat_alacsonypadlos]  DEFAULT ((0)) FOR [alacsonypadlos]
+GO
+
+ALTER TABLE [dbo].[jarat] ADD  DEFAULT ((0)) FOR [kieg]
 GO
