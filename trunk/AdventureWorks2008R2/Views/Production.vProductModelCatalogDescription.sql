@@ -5,6 +5,7 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 
+
 CREATE VIEW [Production].[vProductModelCatalogDescription] 
 AS 
 SELECT 

@@ -13,6 +13,7 @@ SELECT
     ,a.[AddressLine1] 
     ,a.[AddressLine2] 
     ,a.[City] 
+
     ,sp.[Name] AS [StateProvinceName] 
     ,a.[PostalCode] 
     ,cr.[Name] AS [CountryRegionName] 

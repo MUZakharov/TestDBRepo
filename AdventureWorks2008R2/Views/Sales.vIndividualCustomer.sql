@@ -14,6 +14,7 @@ SELECT
     ,p.[EmailPromotion]
     ,at.[Name] AS [AddressType]
     ,a.[AddressLine1]
+
     ,a.[AddressLine2]
     ,a.[City]
     ,[StateProvinceName] = sp.[Name]
