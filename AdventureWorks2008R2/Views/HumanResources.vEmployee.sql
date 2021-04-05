@@ -21,8 +21,7 @@ SELECT
     ,cr.[Name] AS [CountryRegionName] 
     ,p.[AdditionalContactInfo]
 FROM [HumanResources].[Employee] e
-	INNER JOIN [Person].[Person] p
-	
+	INNER JOIN [Person].[Person] p	
 	ON p.[BusinessEntityID] = e.[BusinessEntityID]
     INNER JOIN [Person].[BusinessEntityAddress] bea 
     ON bea.[BusinessEntityID] = e.[BusinessEntityID] 
